@@ -12,6 +12,7 @@ This is a simple food delivery UI built with React and Tailwind CSS. It shows re
 - React.js
 - React Router
 - useState & useEffect
+- Redux Tool Kit
 
 ## 💡 Key Features
 - Dynamic restaurant listing
