@@ -1,22 +1,27 @@
 
-/**
- * Header
- * -Logo
- * -Nav Theme
- * Body
- * -Search
- * -RestaurantContainer
- * ----RestaurantCard
- * Footer
- * --Copyright
- * --Links
- * --Address
- */
+---
 
- <!-- Redux -->
- -install librarires react-redux and redux tool kit 
- - we will build our own store
- -connect our store to app
- -create a cared slice to add items to the cart
- -dispatch an action when we click on add button
- -selector
+### 🟩 2. **Food Delivery App**
+
+```markdown
+# 🍕 Food Delivery App
+
+This is a simple food delivery UI built with React and Tailwind CSS. It shows restaurant menus, and lets users add/remove items from cart. I built it to practice routing and state management in React.
+
+## 🧰 What I Used
+- React.js
+- React Router
+- useState & useEffect
+
+## 💡 Key Features
+- Dynamic restaurant listing
+- Add to cart / remove from cart
+- Multiple pages using routing
+- Clean responsive UI using Tailwind
+
+## ▶️ Run Locally
+```bash
+git clone https://github.com/varunmarulkar/food-delivery-app.git
+cd food-delivery-app
+npm install
+npm start
